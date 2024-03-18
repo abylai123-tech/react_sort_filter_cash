@@ -1,0 +1,8 @@
+.mySelect{
+    padding: 5px 15px;
+    color: cadetblue;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid cadetblue;
+    outline: none;
+}

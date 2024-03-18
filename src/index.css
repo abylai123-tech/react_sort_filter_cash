@@ -1,0 +1,38 @@
+/* Главный файл со стилями*/
+
+.posts-container{
+    max-width: 900px;
+    width: 100%;
+    margin: auto;
+}
+
+.posts-title{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.posts-list{
+    list-style: none;
+    padding: 0;
+}
+
+.post-item{
+    padding: 10px;
+    border: 1px solid cadetblue;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.post-item-id{
+    margin-right: 20px;
+}
+
+.post-item-content h1{
+    margin: 0;
+}
+
+.post-item-content p{
+    margin-bottom: 0;
+}
